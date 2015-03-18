@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="SupriyaPC" name="test.java.com.googletests.GoogleTest" tests="1" failures="0" timestamp="18 Mar 2015 11:25:28 GMT" time="20.055" errors="0">
+  <testcase name="testGoogle" time="0.004" classname="test.java.com.googletests.GoogleTest"/>
+</testsuite>
